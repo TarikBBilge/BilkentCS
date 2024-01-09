@@ -1,0 +1,17 @@
+# ninja log v5
+23	356	7066668216730271	CMakeFiles/hw3_aynur.dir/DoublyNode.cpp.obj	11d883379ccf12a9
+8	378	7066668216886480	CMakeFiles/hw3_aynur.dir/RegistrationSystem.cpp.obj	a188c644d22a1a6c
+13	342	7066668216574053	CMakeFiles/hw3_aynur.dir/Node.cpp.obj	dd15a58fe0bbdde0
+23	355	7065783134540888	CMakeFiles/hw3_aynur.dir/Course.cpp.obj	af5e8d1aa7135393
+18	328	7066668216417850	CMakeFiles/hw3_aynur.dir/Student.cpp.obj	6465076f0c652047
+3	369	7066668216886480	CMakeFiles/hw3_aynur.dir/main.cpp.obj	d57ee3c9fe85e44b
+379	478	7066668217980226	hw3_aynur.exe	37773e1405d4fe9f
+3	195	7066674754214822	CMakeFiles/hw3_aynur.dir/main.cpp.obj	d57ee3c9fe85e44b
+196	346	7066674755776961	hw3_aynur.exe	37773e1405d4fe9f
+9	413	7066720004210331	CMakeFiles/hw3_aynur.dir/main.cpp.obj	d57ee3c9fe85e44b
+3	429	7066720004366569	CMakeFiles/hw3_aynur.dir/RegistrationSystem.cpp.obj	a188c644d22a1a6c
+430	651	7066720006554082	hw3_aynur.exe	37773e1405d4fe9f
+2	197	7066720341230570	CMakeFiles/hw3_aynur.dir/RegistrationSystem.cpp.obj	a188c644d22a1a6c
+197	287	7066720342091409	hw3_aynur.exe	37773e1405d4fe9f
+2	192	7066723485338078	CMakeFiles/hw3_aynur.dir/RegistrationSystem.cpp.obj	a188c644d22a1a6c
+193	288	7066723486275371	hw3_aynur.exe	37773e1405d4fe9f

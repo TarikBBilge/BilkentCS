@@ -1,0 +1,3 @@
+C:/Users/Tarik Berkan Bilge/CLionProjects/HWleague/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Tarik Berkan Bilge/CLionProjects/HWleague/cmake-build-debug/CMakeFiles/HWleague.dir
+C:/Users/Tarik Berkan Bilge/CLionProjects/HWleague/cmake-build-debug/CMakeFiles/edit_cache.dir

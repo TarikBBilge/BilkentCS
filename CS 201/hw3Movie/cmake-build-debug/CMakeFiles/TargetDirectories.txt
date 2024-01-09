@@ -1,0 +1,3 @@
+C:/Users/Tarik Berkan Bilge/CLionProjects/hw3Movie/cmake-build-debug/CMakeFiles/hw3Movie.dir
+C:/Users/Tarik Berkan Bilge/CLionProjects/hw3Movie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tarik Berkan Bilge/CLionProjects/hw3Movie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
